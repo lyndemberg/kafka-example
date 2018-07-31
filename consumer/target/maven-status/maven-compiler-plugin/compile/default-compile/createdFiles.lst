@@ -1,0 +1,5 @@
+com/kafkaconsumer/domain/Endereco.class
+com/kafkaconsumer/domain/Encomenda.class
+com/kafkaconsumer/domain/Remetente.class
+com/kafkaconsumer/service/EncomendaService.class
+com/kafkaconsumer/app/KafkaConsumerApplication.class
