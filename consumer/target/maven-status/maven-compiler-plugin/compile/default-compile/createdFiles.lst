@@ -1,5 +1,6 @@
-com/kafkaconsumer/domain/Endereco.class
-com/kafkaconsumer/domain/Encomenda.class
-com/kafkaconsumer/domain/Remetente.class
-com/kafkaconsumer/service/EncomendaService.class
-com/kafkaconsumer/app/KafkaConsumerApplication.class
+com/kafkaexemplo/domain/Remetente.class
+com/kafkaexemplo/KafkaConsumerApplication.class
+com/kafkaexemplo/domain/Encomenda.class
+com/kafkaexemplo/domain/Endereco.class
+com/kafkaexemplo/service/EncomendaListener.class
+com/kafkaexemplo/config/KafkaConfig.class

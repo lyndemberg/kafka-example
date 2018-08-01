@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="kafka-consumer" />
+        <module name="kafka-share" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="kafka-consumer" target="1.8" />
+      <module name="kafka-model" target="1.5" />
+      <module name="kafka-share" target="1.5" />
+      <module name="model-shared" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
